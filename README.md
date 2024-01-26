@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukesorvik
+- 👋 Hi, I’m Luke Sorvik
 - 👀 I’m interested in Artificial intellegence and security.
 - 🌱 I’m currently pursuing a bachelor's degree in Computer Science at the University of Washington Seattle
 - 📫 How to reach me : lukesorv at uw.edu
