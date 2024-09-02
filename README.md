@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a Mobile app using flutter**
 
-- 🌱 I’m currently learning **Machine learning, javascript, C++, penetration testing with linux**
+- 🌱 I’m currently learning **Machine learning, C++, pen testing with linux**
 
 - 📫 How to reach me **lukesorv at uw.edu**
   
