@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukesorvik&label=Profile%20views&color=0e75b6&style=flat" alt="lukesorvik" /> </p>
 
-- 🔭 I’m currently working on **a Mobile app using flutter**
-
-- 🌱 I’m currently learning **Machine learning, C++, pen testing with linux**
+- 🔭 I’m currently in my senior year of college set to graduate this June of 2025!
 
 - 📫 How to reach me **lukesorv at uw.edu**
   
