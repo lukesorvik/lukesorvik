@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luke Sorvik</h1>
 <h3 align="center">I’m currently pursuing a bachelor's degree in Computer Science at the University of Washington Seattle</h3>
-<h3 align="center">I graduate June 2025</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukesorvik&label=Profile%20views&color=0e75b6&style=flat" alt="lukesorvik" /> </p>
 
-- 🔭 I’m currently in my senior year of college set to graduate this June of 2025!
 
 - 📫 How to reach me **lukesorv at uw.edu**
   
