@@ -24,7 +24,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,bash,git,github,figma,blender,ae,pr,unity,unreal,raspberrypi,linux,cloudflare,arduino "/><br/>
 </a>
 <p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukesorvik&show_icons=true&locale=en&layout=compact" alt="lukesorvik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukesorvik&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="lukesorvik" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukesorvik&show_icons=true&locale=en" alt="lukesorvik" /></p> --->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukesorvik&" alt="lukesorvik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukesorvik&theme=chartreuse-dark" alt="lukesorvik" /></p>
+
