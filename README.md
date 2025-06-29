@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke Sorvik</h1>
-<h3 align="center">I’m currently pursuing a bachelor's degree in Computer Science at the University of Washington Seattle</h3>
+<h3 align="center">I recently graduated with a bachelor's degree in Computer Science at the University of Washington Seattle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukesorvik&label=Profile%20views&color=0e75b6&style=flat" alt="lukesorvik" /> </p>
 
